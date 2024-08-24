@@ -7,18 +7,10 @@
    
 }
 
-.about
+*
 {
-    padding: 10px;
-    color: #eab9eb;
-    background-color: #333;
 
-}
-
-.cstar
-{
-    padding: 10px;
-    color: #9df567;
+    color: #fff;
     background-color: #111;
 }
 .college
@@ -29,4 +21,11 @@
 img
 {
     background-color: azure;
+}
+
+a, a:visited 
+{
+    text-decoration: none;
+    color: inherit;
+  
 }
